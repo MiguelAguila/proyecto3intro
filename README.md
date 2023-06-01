@@ -1,39 +1,22 @@
-# proyecto2
-
 # Manual de usuario
 ## Funciones
-1. Ingresar o guardar informacion
-2. Leer la informacion.
-3. Busca y lee una sola seccion de la infoamcion.
-4. Modifica la informacion que se le indica.
+1. suma
+2. resta
+3. multiplicacion
+4. División
+5. Sumar todos los valores de la matriz
+6. Restar todos los valores de la matriz
+7. Suma de matrices
+8. Resta de matrices
+9. Triángulo con números
+10. Rectángulo con asteríscos
 
-## Informacion que se debe ingresar en la opcion numero 1
-+ Nombre
-+ Carne
-+ Correo
-+ Seccion
-+ Ciclo escolar
-+ Promedio
+## funcionamiento
++ en la parte de operaciones basicas el programa pedira n cantidad de numero hasta qeu el usuario precione enter o ingrese un 0 
++ de la opcion 5 a la 8 se deve de ingresar dos matrices, pedira las columnas y las filas , en cada espacio pedira un numero, por ultimo dependiendo de que fincion escogio enseñara el resultado deseado 
++en la opcion 9 y 10 solamente pedira un numero x que el usuario ingresara y msotrata lo deseado, ya sea un triangulo con numeros impares o un rectalculo con asteriscos, dependiendo la opcion que ingreso
++ si no quiere ningina fincion y quiere cerrar el prgrama solamente devera de ingresar cualquier tecla que no sea un numero del 1 al 10.
+
 
 Esta es la informacion que se le pide ingresar al usuario para empezar a correr el programa correctamente
 
-## Informacion que se muestra con la opcion numero 2 y 3
-
-+ nombre
-+ carne
-+ correo
-+ seccion
-+ ciclo escolar
-+ promedio
-
-En la opccion numero 2 muestra todos los datos ingresados
-
-En la opccion numero 3 pedira un carné, para que muestre solo la infomacion que contenga dicho estudiante
-
-# Funcion de la opccion numero 4
-
-## Peticiones de opcion 4
-* Ingresar el carne del alumno que desee modificar
-* Ingresar el nuevo promedio del alumno seleccionado
-
-En esta lo unico que se modifica es el promedio del alumno que desee y modifica el estado junto con el promedio
