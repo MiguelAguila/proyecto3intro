@@ -14,7 +14,7 @@
 ## funcionamiento
 + en la parte de operaciones basicas el programa pedira n cantidad de numero hasta qeu el usuario precione enter o ingrese un 0 
 + de la opcion 5 a la 8 se deve de ingresar dos matrices, pedira las columnas y las filas , en cada espacio pedira un numero, por ultimo dependiendo de que fincion escogio enseñara el resultado deseado 
-+en la opcion 9 y 10 solamente pedira un numero x que el usuario ingresara y msotrata lo deseado, ya sea un triangulo con numeros impares o un rectalculo con asteriscos, dependiendo la opcion que ingreso
++ en la opcion 9 y 10 solamente pedira un numero x que el usuario ingresara y msotrata lo deseado, ya sea un triangulo con numeros impares o un rectalculo con asteriscos, dependiendo la opcion que ingreso
 + si no quiere ningina fincion y quiere cerrar el prgrama solamente devera de ingresar cualquier tecla que no sea un numero del 1 al 10.
 
 
