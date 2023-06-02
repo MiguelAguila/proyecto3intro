@@ -1,4 +1,4 @@
-# Manual de usuario
+# MManual de usuario
 ## Funciones
 1. suma
 2. resta
